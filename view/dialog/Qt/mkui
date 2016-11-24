@@ -1,0 +1,5 @@
+pyuic4 dlgConfigComm.ui > dlgConfigComm_ui.py
+pyuic4 dlgEditAnv.ui > dlgEditAnv_ui.py
+pyuic4 dlgEditExe.ui > dlgEditExe_ui.py
+pyuic4 dlgEditPAR.ui > dlgEditPAR_ui.py
+pyuic4 wndMain.ui > wndMain_ui.py
